@@ -3,4 +3,4 @@ its a test file
 
 This is Update branch
 
-This i master branch 
+This is master branch 
