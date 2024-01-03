@@ -3,4 +3,8 @@ its a test file
 
 This is Update branch
 
+<<<<<<< HEAD
 This is master branch 
+=======
+This is edited in feature
+>>>>>>> feature/new
